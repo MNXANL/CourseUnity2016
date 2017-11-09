@@ -1,0 +1,6 @@
+Pos inicial jugador{1, 1, -15}
+
+[ ] WallJumps
+[ ] WallRuns
+[ ] Las plataformas en movimiento deberian hacer que, si el Player se queda quieto, no se caiga.
+[X] Hacer que las plataformas giratorias... giren
